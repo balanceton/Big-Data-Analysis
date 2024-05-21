@@ -64,4 +64,4 @@ This project demonstrates the capabilities of the Hadoop platform in processing 
 
 ---
 
-For any questions or further assistance, please refer to the project documentation or contact the project maintainers.
+For any questions or further assistance, please refer to the project documentation or contact me.
